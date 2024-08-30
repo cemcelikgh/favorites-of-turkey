@@ -1,6 +1,7 @@
-# most-popular-bootstrap-kodluyoruz-patika
-Patika.dev Bootstrap Ödev 1
+# favorites-of-turkey
+Patika Beginner Frontend Web Development Path Certification Task
+<br>Favorites of Turkey
 
-https://www.patika.dev https://kodluyoruz.org
+Browse: <https://cemcelikgh.github.io/favorites-of-turkey/>
 
-![most-popular-bootstrap-kodluyoruz-patika](assets\most-popular-bootstrap.jpg)
+[![Favorites of Turkey Preview](./assets/favorites-of-turkey-preview.jpg "Browse Favorites of Turkey")](https://cemcelikgh.github.io/favorites-of-turkey/)
